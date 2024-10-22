@@ -1,1 +1,2 @@
 # The primary aim of this project was to explore the generlizability of COVID-19 predictive models in predicting related outcomes. The secondary aim was to compare model performance between logistic regression and machine learning models in predicting COVID-19 outcomes including 30-day mortality, intensive care unit (ICU) admission and clinical deterioration including both mortality and ICU admission. 
+FNN: feedforward neural network
